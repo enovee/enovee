@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @enovee
+- 👀 I’m interested in data engineering, data analysis
+- 🌱 I’m currently learning python, BI, algorithms, sql
+- 📫 How to reach me enovee@gmail.com
